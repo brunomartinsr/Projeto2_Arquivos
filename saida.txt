@@ -1,0 +1,5 @@
+Nome: Ana   Imposto: R$0.00
+Nome: José   Imposto: R$14.10
+Nome: Maria   Imposto: R$79.60
+Nome: Rubens   Imposto: R$248.27
+Nome: Kátia   Imposto: R$1040.03
